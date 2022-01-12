@@ -1,0 +1,6 @@
+CheckStyle-IDEA
+EclipseCodeFormatter
+Karma
+com.chainstaysoftware.assertions2assertj
+org.jetbrains.plugins.spotbugs
+org.sonarlint.idea

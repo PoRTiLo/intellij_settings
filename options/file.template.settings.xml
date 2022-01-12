@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <includes_templates>
+      <template name="test template.java" file-name="test_template" reformat="true" live-template-enabled="false" />
+    </includes_templates>
+  </component>
+</application>
