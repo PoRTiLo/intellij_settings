@@ -22,6 +22,8 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="150" />
+  <option name="SOFT_MARGINS" value="150" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
